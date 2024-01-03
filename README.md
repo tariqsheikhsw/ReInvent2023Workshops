@@ -21,3 +21,13 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/fd204433-05a1-4a69-b93f-8
 
 ## AWS Cloud WAN Workshop
 https://catalog.workshops.aws/cloudwan/en-US/labs
+
+## Amazon CodeWhisperer
+https://catalog.us-east-1.prod.workshops.aws/workshops/6838a1a5-4516-4153-90ce-ac49ca8e1357/en-US
+
+## AWS re:Invent 2023 - Use generative AI to build a DevSecOps Chatbot
+https://catalog.us-east-1.prod.workshops.aws/workshops/75a20314-5e15-4246-9352-3643d9dafc43/en-US
+
+## re:Invent 2023 - No code low code fast start
+https://catalog.us-east-1.prod.workshops.aws/workshops/d7cb3d98-11db-4553-967a-2320f17af14b/en-US
+
