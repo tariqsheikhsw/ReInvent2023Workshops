@@ -203,3 +203,5 @@ https://github.com/aws-samples/amazon-security-lake-sagemaker-workshop
 ## Demos for Unlock insights with AWS GenAI services (re:Invent BOA303)
 https://github.com/viktoriasemaan/boa303
 
+## awesome-codewhisperer 
+https://github.com/cremich/awesome-codewhisperer
