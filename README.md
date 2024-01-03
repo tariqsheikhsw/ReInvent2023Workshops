@@ -3,10 +3,12 @@
 ## ReInvent ReCAP
 
 ## Amazon Bedrock Workshop
-
+https://catalog.us-east-1.prod.workshops.aws/workshops/a4bdb007-5600-4368-81c5-ff5b4154f518/en-US/20-intro
 https://github.com/aws-samples/amazon-bedrock-workshop
 
-https://catalog.us-east-1.prod.workshops.aws/workshops/a4bdb007-5600-4368-81c5-ff5b4154f518/en-US/20-intro
+## Build and scale Generative AI applications with Amazon Bedrock - Workshop
+https://catalog.us-east-1.prod.workshops.aws/workshops/e820beb4-e87e-4a85-bc5b-01548ceba1f8/en-US
+https://github.com/aws-samples/build-scale-generative-ai-applications-with-amazon-bedrock-workshop
 
 ## ArgoCD on Amazon EKS Workshop
 ### CON402 | Application deployment in Amazon EKS: Patterns, practices, and designs
@@ -62,7 +64,52 @@ https://github.com/aws-samples/sagemaker-101-workshop
 https://catalog.us-east-1.prod.workshops.aws/workshops/74d0f3be-7108-4bba-8136-00617a988535/en-US
 https://github.com/aws-samples/aws-serverless-workshop-innovator-island
 
+## Amazon Location Service PetTracker Demo
+https://catalog.workshops.aws/how-to-build-a-pet-tracker/en-US
+https://github.com/aws-samples/amazon-location-service-pettracker-demo
 
+## Amazon Bedrock Retrieval-Augmented Generation (RAG) Workshop
+https://catalog.us-east-1.prod.workshops.aws/workshops/77e0888c-7086-478b-af44-4562c55b1faf/en-US
+https://github.com/aws-samples/amazon-bedrock-rag-workshop
+
+## SaaS Factory SaaS Microservices Workshop
+https://catalog.workshops.aws/saas-microservices/en-US
+https://github.com/aws-samples/aws-saas-factory-saas-microservices-workshop
+
+## Chaos Engineering on AWS
+https://catalog.us-east-1.prod.workshops.aws/workshops/5fc0039f-9f15-47f8-aff0-09dc7b1779ee/en-US
+https://github.com/aws-samples/aws-fault-injection-simulator-workshop
+
+## LLMOps With SageMaker Workshop
+https://catalog.us-east-1.prod.workshops.aws/workshops/958877b7-af54-434e-8133-15bbb7693947/en-US
+https://github.com/aws-samples/llmops-workshop
+
+## Build a complete livestreaming workflow using automated deployments
+https://catalog.us-east-1.prod.workshops.aws/workshops/b520360a-46d4-470e-a34f-c6cf4a73f674/en-US
+https://github.com/aws-samples/cicd-mediaservices-workshop
+
+## SaaS Factory EKS SaaS Workshop (2023)
+https://catalog.us-east-1.prod.workshops.aws/workshops/02d7d511-9af8-417f-abda-3708e9c0c749/en-US
+https://github.com/aws-samples/aws-saas-factory-eks-saas-workshop
+
+## One Observability Workshop
+https://catalog.workshops.aws/observability/en-US
+
+## EKS Cluster Upgrades Workshop
+https://eks-upgrades-workshop.netlify.app/
+https://github.com/aws-samples/eks-cluster-upgrades-workshop
+
+## AWS Security Hub Workshop
+https://catalog.workshops.aws/security-hub/en-US
+https://github.com/aws-samples/aws-security-hub-workshop
+
+## AWS Global Accelerator Custom Routing Workshop
+https://catalog.us-east-1.prod.workshops.aws/workshops/ac213084-3f4a-4b01-9835-5052d6096b5b/en-US
+https://github.com/aws-samples/aws-global-accelerator-custom-routing-workshop
+
+## Serverless Security Workshop
+https://catalog.us-east-1.prod.workshops.aws/workshops/026f84fd-f589-4a59-a4d1-81dc543fcd30/en-US
+https://github.com/aws-samples/aws-serverless-security-workshop
 
 # GITHUB ONLY 
 
@@ -81,5 +128,16 @@ https://github.com/aws-samples/retail-demo-store
 ## AWS Lambda Powertools for TypeScript Workshop
 https://github.com/aws-samples/powertools-for-aws-lambda-workshop
 
+## SageMaker Feature Store Workshop
+https://github.com/aws-samples/amazon-sagemaker-feature-store-end-to-end-workshop
+
+## Mythical Mysfits: A tale of love, loss, and cuddles
+https://github.com/aws-samples/amazon-ecs-mythicalmysfits-workshop
+    CON214: Monolith to Microservices with Docker and AWS Fargate
+    CON321: DevSecOps with Docker and AWS Fargate
+    CON322: Management and Operations with AWS Fargate
+
+## AWS Fault Injection Simulator Workshop
+https://github.com/aws-samples/aws-fault-injection-simulator-workshop-v2
 
 
