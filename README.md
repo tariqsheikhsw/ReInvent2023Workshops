@@ -158,6 +158,13 @@ https://github.com/aws-samples/aws-nitro-enclaves-workshop
 ## Secure Data Science with Amazon SageMaker Studio Workshop
 https://catalog.us-east-1.prod.workshops.aws/workshops/c882cd42-8ec8-4112-9469-9fab33471e85/en-US
 
+## Infrastructure for the Rest of Us
+https://catalog.us-east-1.prod.workshops.aws/workshops/781f1e70-d6e9-4f0d-8c7e-b069990a4f8c/en-US
+
+## Building Your First Machine Learning Web App
+https://catalog.us-east-1.prod.workshops.aws/workshops/b0b09da3-8c15-4c6a-aaf1-c265fe6e595d/en-US
+
+
 # GITHUB ONLY 
 
 ## Amazon SageMaker Generative AI workshop - Build Generative AI applications on SageMaker
@@ -193,5 +200,6 @@ https://github.com/aws-samples/aws-fault-injection-simulator-workshop-v2
 ## Amazon Security Lake SageMaker Workshop
 https://github.com/aws-samples/amazon-security-lake-sagemaker-workshop
 
-
+## Demos for Unlock insights with AWS GenAI services (re:Invent BOA303)
+https://github.com/viktoriasemaan/boa303
 
