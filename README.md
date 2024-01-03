@@ -111,6 +111,53 @@ https://github.com/aws-samples/aws-global-accelerator-custom-routing-workshop
 https://catalog.us-east-1.prod.workshops.aws/workshops/026f84fd-f589-4a59-a4d1-81dc543fcd30/en-US
 https://github.com/aws-samples/aws-serverless-security-workshop
 
+## AWS Serverless Observability Workshop
+https://catalog.us-east-1.prod.workshops.aws/workshops/b3fc5f7a-ff34-41fa-a9f2-4cd9e093e6ff/en-US
+https://github.com/aws-samples/serverless-observability-workshop
+
+## AWS Iterative Application Modernization Workshop
+https://catalog.us-east-1.prod.workshops.aws/workshops/f2c0706c-7192-495f-853c-fd3341db265a/en-US
+https://github.com/aws-samples/unishop-monolith-to-microservices
+
+##  Serverlesspresso workshop
+https://workshop.serverlesscoffee.com/
+https://github.com/aws-samples/serverless-coffee-workshop
+
+## Serverless WooCommerce
+https://catalog.workshops.aws/serverless-woocommerce/en-US
+https://github.com/aws-samples/serverless-woocommerce-workshop
+
+## Amazon MQ Workshop
+https://catalog.us-east-1.prod.workshops.aws/workshops/0b534eb9-fdfb-49f0-8df4-ebccca71a9eb/en-US
+https://github.com/aws-samples/amazon-mq-workshop
+
+## Wild Rydes Serverless Workshops
+https://webapp.serverlessworkshops.io/
+https://github.com/aws-samples/aws-serverless-workshops
+
+## Adding Security to Pipelines in AWS
+https://catalog.workshops.aws/devsecops/en-US
+https://github.com/aws-samples/secure-pipelines-in-aws-workshop
+
+## CICD for ECS Workshop Code
+https://catalog.us-east-1.prod.workshops.aws/workshops/869f7eee-d3a2-490b-bf9a-ac90a8fb2d36/en-US
+https://github.com/aws-samples/cicd-for-ecs-workshop-code
+
+## Build a cloud experience with Cloudscape Design System 🚀
+https://catalog.us-east-1.prod.workshops.aws/workshops/5b7fe737-7ea2-4c4d-b572-76df6adabd47/en-US
+https://github.com/aws-samples/cloudscape-design-system-workshop
+
+## AWS Alien Attack: A Serverless Adventure
+https://catalog.us-east-1.prod.workshops.aws/workshops/fc36cb5a-de1b-403f-84dd-cc824390c548/en-US
+https://github.com/aws-samples/aws-alien-attack
+
+## AWS Nitro Enclaves Workshop
+https://catalog.workshops.aws/nitro-enclaves/en-US
+https://github.com/aws-samples/aws-nitro-enclaves-workshop
+
+## Secure Data Science with Amazon SageMaker Studio Workshop
+https://catalog.us-east-1.prod.workshops.aws/workshops/c882cd42-8ec8-4112-9469-9fab33471e85/en-US
+
 # GITHUB ONLY 
 
 ## Amazon SageMaker Generative AI workshop - Build Generative AI applications on SageMaker
@@ -137,7 +184,14 @@ https://github.com/aws-samples/amazon-ecs-mythicalmysfits-workshop
     CON321: DevSecOps with Docker and AWS Fargate
     CON322: Management and Operations with AWS Fargate
 
+## Amazon Connect Automation using AWS Developer Tools, AWS Cloud Development Kit (CDK), and TypeScript
+https://github.com/aws-samples/amazon-connect-cicd-workshop
+
 ## AWS Fault Injection Simulator Workshop
 https://github.com/aws-samples/aws-fault-injection-simulator-workshop-v2
+
+## Amazon Security Lake SageMaker Workshop
+https://github.com/aws-samples/amazon-security-lake-sagemaker-workshop
+
 
 
