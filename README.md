@@ -159,11 +159,28 @@ https://github.com/aws-samples/aws-nitro-enclaves-workshop
 https://catalog.us-east-1.prod.workshops.aws/workshops/c882cd42-8ec8-4112-9469-9fab33471e85/en-US
 
 ## Infrastructure for the Rest of Us
+http://s12d.com/infra-camp
 https://catalog.us-east-1.prod.workshops.aws/workshops/781f1e70-d6e9-4f0d-8c7e-b069990a4f8c/en-US
 
 ## Building Your First Machine Learning Web App
+http://s12d.com/mlapi-camp
 https://catalog.us-east-1.prod.workshops.aws/workshops/b0b09da3-8c15-4c6a-aaf1-c265fe6e595d/en-US
 
+## DOP301: Boost your application availability with AIOps on AWS
+https://s12d.com/dop301
+## Modernizing ITOps with AI/ML on AWS
+https://catalog.workshops.aws/aiops/en-US
+
+## OPN303-Complete data transformation and orchestration pipeline using DBT
+https://catalog.workshops.aws/opensource-with-redshift/en-US
+
+## IoT 205: Using generative AI & AWS IoT to build a 2D robot that draws pictures
+
+## NET303: How to Manage your Network using Infrastructure as Code
+https://catalog.workshops.aws/manage-network-using-iac/en-US
+
+NEXT:
+https://blog-serverworks-co-jp.translate.goog/archive/category/re%3Ainvent2023?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc
 
 # GITHUB ONLY 
 
